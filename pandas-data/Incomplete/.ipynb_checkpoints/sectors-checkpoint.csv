@@ -1,0 +1,154 @@
+Sector,Industry,Rank,Company,Revenue,Profits,Employees
+Aerospace & Defense,Aerospace and Defense,45,United Technologies,61047,7608,197200
+Aerospace & Defense,Aerospace and Defense,24,Boeing,96114,5176,161400
+Apparel,Apparel,448,Hanesbrands,5732,429,65300
+Apparel,Apparel,231,VF,12377,1232,64000
+Business Services,"Advertising, marketing",186,Omnicom Group,15134,1094,74900
+Business Services,"Advertising, marketing",355,Interpublic Group,7614,455,49200
+Business Services,Diversified Outsourcing Services,199,Aramark,14329,236,216500
+Business Services,Diversified Outsourcing Services,744,Convergys,2951,169,130000
+Business Services,Education,820,Apollo Education Group,2591,30,23400
+Business Services,Education,993,DeVry Education Group,1910,140,11770
+Business Services,Financial Data Services,392,Fidelity National Information Services,6595,632,55000
+Business Services,Financial Data Services,249,First Data,11451,-1481,24000
+Business Services,Miscellaneous,734,Service Corp. International,2986,234,19720
+Business Services,Miscellaneous,440,United Rentals,5817,585,12700
+Business Services,Temporary Help,144,ManpowerGroup,19330,419,27000
+Business Services,Temporary Help,503,Robert Half International,5095,358,16100
+Business Services,Waste Management,221,Waste Management,12961,753,40600
+Business Services,Waste Management,312,Republic Services,9115,750,33000
+Chemicals,Chemicals,101,DuPont,27940,1953,52000
+Chemicals,Chemicals,56,Dow Chemical,48778,7685,49495
+Energy,Energy,384,UGI,6691,281,13570
+Energy,Energy,193,NRG Energy,14674,-6382,10468
+Energy,"Mining, Crude-Oil Production",175,Freeport-McMoRan,15877,-12236,34500
+Energy,"Mining, Crude-Oil Production",90,ConocoPhillips,30935,-4428,15900
+Energy,Miscellaneous,696,American Water Works,3159,476,6700
+Energy,"Oil and Gas Equipment, Services",117,Halliburton,23633,-671,65000
+Energy,"Oil and Gas Equipment, Services",192,National Oilwell Varco,14757,-769,47262
+Energy,Petroleum Refining,2,Exxon Mobil,246204,16150,75600
+Energy,Petroleum Refining,14,Chevron,131118,4587,61500
+Energy,Pipelines,65,Energy Transfer Equity,42126,1189,30078
+Energy,Pipelines,198,Kinder Morgan,14403,253,11290
+Energy,Utilities: Gas and Electric,95,Exelon,29447,2269,29762
+Energy,Utilities: Gas and Electric,115,Duke Energy,24002,2816,29188
+Engineering & Construction,"Engineering, Construction",156,AECOM,17990,-155,92000
+Engineering & Construction,"Engineering, Construction",235,Jacobs Engineering Group,12115,303,56950
+Engineering & Construction,Homebuilders,301,Lennar,9474,803,7749
+Engineering & Construction,Homebuilders,260,D.R. Horton,10824,751,6230
+Financials,Commercial Banks,27,Wells Fargo,90033,22894,264700
+Financials,Commercial Banks,23,J.P. Morgan Chase,101006,24442,234598
+Financials,Diversified Financials,184,Icahn Enterprises,15272,-1194,73807
+Financials,Diversified Financials,222,Marsh & McLennan,12893,1599,60000
+Financials,"Insurance: Life, Health (Mutual)",82,TIAA,35181,1214,12735
+Financials,"Insurance: Life, Health (Mutual)",76,Massachusetts Mutual Life Insurance,38243,1425,11593
+Financials,"Insurance: Life, Health (stock)",40,MetLife,69951,5310,69000
+Financials,"Insurance: Life, Health (stock)",50,Prudential Financial,57119,5642,49384
+Financials,Insurance: Property and Casualty (Mutual),35,State Farm Insurance Cos.,75697,6229,70425
+Financials,Insurance: Property and Casualty (Mutual),69,Nationwide,40222,581,34032
+Financials,Insurance: Property and Casualty (Stock),4,Berkshire Hathaway,210821,24083,331000
+Financials,Insurance: Property and Casualty (Stock),49,AIG,58327,2196,66400
+Financials,Real estate,259,CBRE Group,10856,547,70000
+Financials,Real estate,436,Jones Lang LaSalle,5966,439,61500
+Financials,Securities,382,Jones Financial,6694,838,41000
+Financials,Securities,401,Charles Schwab,6501,1447,15300
+Food and Drug Stores,Food and Drug Stores,17,Kroger,109830,2039,431000
+Food and Drug Stores,Food and Drug Stores,19,Walgreens Boots Alliance,103444,4220,302500
+"Food, Beverages & Tobacco",Beverages,62,Coca-Cola,44294,7351,123200
+"Food, Beverages & Tobacco",Beverages,413,Dr Pepper Snapple Group,6282,764,19000
+"Food, Beverages & Tobacco",Food Consumer Products,44,PepsiCo,63056,5452,263000
+"Food, Beverages & Tobacco",Food Consumer Products,94,Mondelez International,29636,7267,99000
+"Food, Beverages & Tobacco",Food Production,66,Tyson Foods,41373,1220,113000
+"Food, Beverages & Tobacco",Food Production,41,Archer Daniels Midland,67702,1849,32300
+"Food, Beverages & Tobacco",Tobacco,106,Philip Morris International,26794,6873,80200
+"Food, Beverages & Tobacco",Tobacco,902,Universal,2272,115,27000
+Health Care,Health Care: Insurance and Managed Care,6,UnitedHealth Group,157107,5813,200000
+Health Care,Health Care: Insurance and Managed Care,33,Anthem,79157,2560,53000
+Health Care,Health Care: Medical Facilities,63,HCA Holdings,43591,2129,203500
+Health Care,Health Care: Medical Facilities,125,Community Health Systems,22678,158,123000
+Health Care,Health Care: Pharmacy and Other Services,325,Laboratory Corp. of America,8680,437,50000
+Health Care,Health Care: Pharmacy and Other Services,358,Quest Diagnostics,7493,709,44000
+Health Care,Medical Products and Equipment,138,Abbott Laboratories,20661,4423,74000
+Health Care,Medical Products and Equipment,278,Becton Dickinson,10282,695,49517
+Health Care,Pharmaceuticals,39,Johnson & Johnson,70074,15409,127100
+Health Care,Pharmaceuticals,55,Pfizer,48851,6960,97900
+Health Care,Wholesalers: Health Care,5,McKesson,181241,1476,70400
+Health Care,Wholesalers: Health Care,21,Cardinal Health,102531,1215,34500
+"Hotels, Resturants & Leisure",Food Services,218,Yum Brands,13105,1293,505000
+"Hotels, Resturants & Leisure",Food Services,109,McDonald’s,25413,4529,420000
+"Hotels, Resturants & Leisure","Hotels, Casinos, Resorts",444,Starwood Hotels & Resorts,5763,489,188000
+"Hotels, Resturants & Leisure","Hotels, Casinos, Resorts",254,Hilton Worldwide Holdings,11272,1404,164000
+Household Products,"Home Equipment, Furnishings",256,Stanley Black & Decker,11211,884,51250
+Household Products,"Home Equipment, Furnishings",328,Jarden,8604,147,40000
+Household Products,Household and Personal Products,34,Procter & Gamble,78756,7036,110000
+Household Products,Household and Personal Products,261,Estee Lauder,10780,1089,44000
+Household Products,Miscellaneous,450,Mattel,5703,369,31000
+Household Products,Miscellaneous,950,Vista Outdoor,2083,80,5200
+Industrials,Construction and Farm Machinery,59,Caterpillar,47011,2102,112200
+Industrials,Construction and Farm Machinery,97,Deere,28863,1940,57180
+Industrials,"Electronics, Electrical Equip.",75,Honeywell International,38581,4768,129000
+Industrials,"Electronics, Electrical Equip.",128,Emerson Electric,22304,2710,110800
+Industrials,Industrial Machinery,11,General Electric,140389,-6126,333000
+Industrials,Industrial Machinery,224,Parker-Hannifin,12712,1012,54750
+Industrials,Miscellaneous,93,3M,30274,4833,89446
+Materials,"Building Materials, Glass",480,Owens Corning,5350,330,15000
+Materials,"Building Materials, Glass",637,Builders FirstSource,3564,-23,14000
+Materials,Forest and Paper Products,373,Weyerhaeuser,7082,506,12600
+Materials,Forest and Paper Products,489,Domtar,5264,142,9850
+Materials,Metals,126,Alcoa,22534,-322,60000
+Materials,Metals,244,United States Steel,11574,-1642,33200
+Materials,Miscellaneous,426,A-Mark Precious Metals,6070,7,52
+Materials,"Packaging, Containers",127,International Paper,22365,938,56000
+Materials,"Packaging, Containers",251,WestRock,11381,507,41400
+Media,Entertainment,53,Disney,52465,8382,185000
+Media,Entertainment,705,Regal Entertainment Group,3127,153,25915
+Media,"Publishing, Printing",255,R.R. Donnelley & Sons,11257,151,68400
+Media,"Publishing, Printing",327,News Corp.,8633,-147,25000
+Motor Vehicles & Parts,Motor Vehicles and Parts,8,General Motors,152356,9687,215000
+Motor Vehicles & Parts,Motor Vehicles and Parts,9,Ford Motor,149558,7373,199000
+Retailing,"Automotive Retailing, Services",269,Hertz Global Holdings,10535,273,30000
+Retailing,"Automotive Retailing, Services",330,Avis Budget Group,8502,313,26350
+Retailing,General Merchandisers,1,Walmart,482130,14694,2300000
+Retailing,General Merchandisers,38,Target,73785,3363,341000
+Retailing,Specialty Retailers: Apparel,89,TJX,30945,2278,216000
+Retailing,Specialty Retailers: Apparel,177,Gap,15797,920,141000
+Retailing,Specialty Retailers: Other,28,Home Depot,88519,7009,385000
+Retailing,Specialty Retailers: Other,47,Lowe’s,59074,2546,225000
+Technology,Computer Peripherals,194,Western Digital,14572,1465,76449
+Technology,Computer Peripherals,113,EMC,24704,1990,72000
+Technology,Computer Software,77,Oracle,38226,9938,132000
+Technology,Computer Software,25,Microsoft,93580,12193,118000
+Technology,"Computers, Office Equipment",20,HP,103355,4554,287000
+Technology,"Computers, Office Equipment",3,Apple,233715,53394,110000
+Technology,Information Technology Services,31,IBM,82461,13190,411798
+Technology,Information Technology Services,230,Cognizant Technology Solutions,12416,1624,221700
+Technology,Internet Services and Retailing,18,Amazon.com,107006,596,230800
+Technology,Internet Services and Retailing,36,Alphabet,74989,16348,61814
+Technology,Network and Other Communications Equipment,54,Cisco Systems,49161,8981,71833
+Technology,Network and Other Communications Equipment,462,Amphenol,5569,764,50700
+Technology,"Scientific,Photographic and Control Equipment",133,Danaher,20909,3357,81000
+Technology,"Scientific,Photographic and Control Equipment",164,Thermo Fisher Scientific,16965,1975,52400
+Technology,Semiconductors and Other Electronic Components,158,Jabil Circuit,17914,284,161000
+Technology,Semiconductors and Other Electronic Components,51,Intel,55355,11420,107300
+Telecommunications,Telecommunications,10,AT&T,146801,13345,281450
+Telecommunications,Telecommunications,13,Verizon,131620,17879,177700
+Transportation,Airlines,67,American Airlines Group,40990,7610,118500
+Transportation,Airlines,80,United Continental Holdings,37864,7340,84000
+Transportation,"Mail, Package, and Freight Delivery",48,UPS,58363,4844,341240
+Transportation,"Mail, Package, and Freight Delivery",58,FedEx,47453,1050,323035
+Transportation,Miscellaneous,930,Kirby,2148,227,4200
+Transportation,Railroads,129,Union Pacific,21813,4772,47457
+Transportation,Railroads,270,Norfolk Southern,10511,1556,30456
+Transportation,Transportation Equipment,407,Trinity Industries,6393,797,22030
+Transportation,Transportation Equipment,578,Brunswick,4143,241,12607
+Transportation,Transportation and Logistics,353,XPO Logistics,7623,-191,89000
+Transportation,Transportation and Logistics,390,Expeditors International of Washington,6617,457,15397
+Transportation,"Trucking, Truck Leasing",395,Ryder System,6572,305,33100
+Transportation,"Trucking, Truck Leasing",521,YRC Worldwide,4832,1,32000
+Wholesalers,Miscellaneous,315,Univar,8982,17,9200
+Wholesalers,Wholesalers: Diversified,183,Genuine Parts,15280,706,39600
+Wholesalers,Wholesalers: Diversified,369,LKQ,7193,423,31100
+Wholesalers,Wholesalers: Electronics and Office Equipment,212,Synnex,13338,209,78500
+Wholesalers,Wholesalers: Electronics and Office Equipment,64,Ingram Micro,43026,215,27700
+Wholesalers,Wholesalers: Food and Grocery,57,Sysco,48681,687,51700
+Wholesalers,Wholesalers: Food and Grocery,122,US Foods Holding,23128,168,25000
